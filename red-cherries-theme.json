@@ -213,9 +213,17 @@
     "KEYBOARD": [
       "#000000"
     ],
-    "PANEL_BG": [
-      "#000000"
-    ]
+      "PANEL_BG": ["#000000"],
+
+  "GUILD_SIDEBAR_BACKGROUND": ["#000000"],
+
+  "GUILD_SIDEBAR_BG": ["#000000"],
+
+  "SIDEBAR_BACKGROUND": ["#000000"],
+
+  "CHANNEL_LIST_BACKGROUND": ["#000000"],
+
+  "GUILD_SIDEBAR_BORDER": ["#000000"]
   },
   "rawColors": {
     "BLUE_260": "#a30922",
