@@ -379,7 +379,7 @@
   "spec": 2,
   "background": {
     "url": "https://raw.githubusercontent.com/Nis2323/Red-cherries-theme/main/08df62ada566d62a2b9435a00428acb4.jpg",
-    "alpha": 0.5,
+    "alpha": 1,
     "blur": 0.75
   }
 }
